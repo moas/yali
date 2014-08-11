@@ -10,7 +10,7 @@ Example:
 
     from yali.fr import synonyms
 
-    crisco = synonyms.Crisco()\n
+    crisco = synonyms.Crisco()
     _iter_sy = crisco.synonyms_of("manger")
     _iter_an = crisco.antonyms_of("manger")
 
